@@ -1,0 +1,70 @@
+# הבימה שליחויות — Generative Engine Optimization Map
+
+> Habima Shlichuyot is a courier and delivery company with a strong social story and community mission. The brand emphasizes its social impact alongside its professional delivery services. The website should be modern and conversion-focused while authentically communicating the company's social narrative. The business also operates an online store selling packaging materials, label printers, and related products.
+
+---
+
+## Pages
+
+### בית
+https://-162f7022.zappy5.app
+מחפשים שירות שליחויות אמין ומהיר? הבימה שליחויות מציעה משלוחים מקומיים ומהירים עד הבית, לצד מחויבות עמוקה לקהילה. הצטרפו למהפכה החברתית וקבלו הצעת מחיר משתלמת עכשיו!
+
+### תודה רבה - פנייתך התקבלה | הבימה שליחויות
+https://-162f7022.zappy5.app/thank-you
+תודה שפנית להבימה שליחויות. פנייתך התקבלה בהצלחה ונציג יחזור אליך בהקדם. שירותי שליחויות מקצועיים ואמינים באזורך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-162f7022.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-162f7022.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-162f7022.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-162f7022.zappy5.app
+- Endpoint: https://-162f7022.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הבימה שליחויות
+Habima Shlichuyot is a courier and delivery company with a strong social story and community mission. The brand emphasizes its social impact alongside its professional delivery services. The website should be modern and conversion-focused while authentically communicating the company's social narrative. The business also operates an online store selling packaging materials, label printers, and related products.
+
+## Target Audience
+- בעלי עסקים קטנים
+- מפעילי חנויות מקוונות
+- ארגונים חברתיים
+
+## Industry
+Courier & Delivery Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-162f7022.zappy5.app/sitemap.xml
+- Robots: https://-162f7022.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-162f7022.zappy5.app/llms-full.txt
